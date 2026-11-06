@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  
+  <rect x="0" y="0" width="100" height="100" rx="22" fill="#0a0a14"></rect>
+  <g transform="translate(0,3)">
+    
+    <g transform="rotate(120 50 50)">
+      <polygon points="50,50 67.32,40 60,21.39 40,21.39 32.68,40" fill="#B85450" stroke="rgba(0,0,0,.4)" stroke-width=".7" stroke-linejoin="round"></polygon>
+      <ellipse cx="50" cy="34" rx="4.2" ry="2" fill="#B85450" stroke="rgba(0,0,0,.25)" stroke-width=".3"></ellipse>
+      <ellipse cx="50" cy="33.4" rx="3.4" ry="1.5" fill="#D89890"></ellipse>
+    </g>
+    
+    <g transform="rotate(240 50 50)">
+      <polygon points="50,50 67.32,40 60,21.39 40,21.39 32.68,40" fill="#4A5680" stroke="rgba(0,0,0,.4)" stroke-width=".7" stroke-linejoin="round"></polygon>
+      <ellipse cx="50" cy="34" rx="4.2" ry="2" fill="#4A5680" stroke="rgba(0,0,0,.25)" stroke-width=".3"></ellipse>
+      <ellipse cx="50" cy="33.4" rx="3.4" ry="1.5" fill="#8A95BB"></ellipse>
+    </g>
+    
+    <polygon points="50,50 67.32,40 60,21.39 40,21.39 32.68,40" fill="#D4A845" stroke="rgba(0,0,0,.4)" stroke-width=".7" stroke-linejoin="round"></polygon>
+    <ellipse cx="50" cy="34" rx="4.2" ry="2" fill="#D4A845" stroke="rgba(0,0,0,.25)" stroke-width=".3"></ellipse>
+    <ellipse cx="50" cy="33.4" rx="3.4" ry="1.5" fill="#E8C77F"></ellipse>
+  </g>
+</svg>
